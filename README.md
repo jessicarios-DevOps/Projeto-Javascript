@@ -14,12 +14,8 @@ Seu objetivo é adivinhar o número secreto com o menor número de tentativas po
 
 ## 🚀 Começando
 
-1. Clone o repositório:
-git clone https://github.com/seu-usuario/jogo-numero-secreto.git
-
-2. Abra o arquivo `index.html` no seu navegador.
-
-3. Comece a adivinhar o número secreto e divirta-se!
+Clique no link para acessar a página do jogo no seu navegador web:
+https://jogo-sigma-six.vercel.app/
 
 Divirta-se jogando o Jogo do Número Secreto! 🎉🔢
 
