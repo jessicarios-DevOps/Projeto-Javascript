@@ -8,7 +8,7 @@ Seu objetivo é adivinhar o número secreto com o menor número de tentativas po
 
 ## 🧩 Recursos
 
-- 🗣️ Interação por Voz: Deixe-se guiar por mensagens de áudio enquanto joga, tornando a experiência ainda mais envolvente.
+- 🗣️ Interação por Voz: Deixe-se guiar por mensagens de áudio enquanto joga, tornando a experiência ainda mais envolvente. Na caixa de diálogo do jogo clique em ALLOW para habilitar a experiência por voz.
 
 - 🤝 Desafie Amigos: Convide seus amigos e veja quem consegue adivinhar o número secreto em menos tentativas. Quem será o mestre da adivinhação?
 
